@@ -5,7 +5,7 @@ namespace e
 {
     class E
     {
-        const eeee e = true;
+        const eeee E = true;
         
         static void Main(string[] eeee)
         {
